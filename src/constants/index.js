@@ -174,25 +174,25 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Thank you again for the quick work! This is my fourth purchase, and I’ll keep coming back!",
+    name: "bburrell11",
+    designation: "Fiver Client",
+    // company: "Acme Co",
+    // image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "He was easy to work with and delivered a product based on what I required",
+    name: "mr44ent",
+    designation: "Fiver Client",
+    // company: "DEF Corp",
+    // image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
+      "Highly recommended. I wasn't sure what I wanted but Passindu worked with me and provided a result better than I imagined. He is very quick, easy to communicate with and I wouldn't hesitate to recommend him to anyone needing creative picture editing.",
+    name: "apmgpainting",
+    designation: "Fiver Client",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
